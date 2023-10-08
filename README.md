@@ -1,2 +1,2 @@
 # cs
-This repo if for basic cs practice
+This repo is for basic cs practice
